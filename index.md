@@ -1,5 +1,5 @@
 ---
 Title: Welcome to my blog
 ---
-# Firs Section
+# First Section
 To be filled
