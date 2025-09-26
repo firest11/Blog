@@ -1,3 +1,18 @@
+title: "Charles Shugert"
+description: Charles Shugert's Homepage
+author: "Charles Shugert"
+url: "https://your-username.github.io"
 theme: jekyll-theme-minimal
-title: Charles Shugert's Homepage
-description: My Blog
+
+# Navigation
+nav:
+  - name: "Home"
+    url: /
+  - name: "Research"
+    url: /research/
+  - name: "Publications"
+    url: /publications/
+  - name: "Blog"
+    url: /blog/
+  - name: "Projects"
+    url: /projects/
